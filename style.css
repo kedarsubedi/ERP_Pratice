@@ -1,0 +1,21 @@
+*
+{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.nav-item
+{
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+#carouselExampleSlidesOnly
+{
+    margin: 20px;
+}
+a
+{
+    text-decoration: none;
+}
+#link
+{
+    text-decoration: none;
+}
