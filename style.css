@@ -4,15 +4,11 @@ html {
     position: relative;
     min-height: 100%;
   }
-  body {
-    margin-bottom: 60px;
-  }
-  
   
   /* Custom page CSS
   -------------------------------------------------- */
   /* Not required for template or sticky footer method. */  
-   .foot-container {
+.foot-container {
     width: auto;
     max-width: 680px;
     padding: 0 15px;
